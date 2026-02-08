@@ -1,3 +1,5 @@
+#obrigado por alterar, Pop Legau
+
 import random
 
 lista_nome = []
