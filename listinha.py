@@ -1,5 +1,7 @@
 #obrigado por alterar, Pop Legau
 
+#de nada man, to aprendendo a usar git
+
 import random
 
 lista_nome = []
