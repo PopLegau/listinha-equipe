@@ -1,8 +1,9 @@
 import random
 
 lista_nome = []
+quantidade = int(input("Quantas pessoas estão na equipe: "))
 
-for i in range(4):
+for i in range(quantidade):
 	nome = input(f"digite o nome da pessoa {i+1}:")
 	lista_nome.append(nome)
 
