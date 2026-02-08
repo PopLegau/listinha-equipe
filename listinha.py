@@ -14,7 +14,7 @@ lista_nome = []
 quantidade = int(input("Quantas pessoas estão na equipe: "))
 
 for i in range(quantidade):
-	nome = input(f"digite o nome da pessoa {i+1}:")
+	nome = input(f"digite o nome da pessoa {i+1}: ")
 	lista_nome.append(nome)
 
 print(lista_nome)
