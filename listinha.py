@@ -6,6 +6,8 @@
 
 #sim, muito, to ainda tentando entender como o GIT funciona
 
+#eita q coisa, mas boa sorte aprendendo kk 07/02/2026
+
 import random
 
 lista_nome = []
