@@ -2,6 +2,8 @@
 
 #de nada man, to aprendendo a usar git
 
+#sério, ta sendo difícil?
+
 import random
 
 lista_nome = []
