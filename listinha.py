@@ -4,6 +4,8 @@
 
 #sério, ta sendo difícil?
 
+#sim, muito, to ainda tentando entender como o GIT funciona
+
 import random
 
 lista_nome = []
